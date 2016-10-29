@@ -34,7 +34,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -50,7 +50,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -66,7 +66,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -82,7 +82,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -98,7 +98,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -114,7 +114,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -130,7 +130,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -146,23 +146,7 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
-)
-(pin
-	(input)
-	(rect 104 512 272 528)
-	(text "INPUT" (rect 125 0 166 11)(font "Arial" (font_size 6)))
-	(text "E" (rect 5 0 14 14)(font "Arial" ))
-	(pt 168 8)
-	(drawing
-		(line (pt 84 12)(pt 109 12))
-		(line (pt 84 4)(pt 109 4))
-		(line (pt 113 8)(pt 168 8))
-		(line (pt 84 12)(pt 84 4))
-		(line (pt 109 4)(pt 113 8))
-		(line (pt 109 12)(pt 113 8))
-	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(input)
@@ -178,7 +162,23 @@ agreement for further details.
 		(line (pt 109 4)(pt 113 8))
 		(line (pt 109 12)(pt 113 8))
 	)
-	(text "VCC" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
+)
+(pin
+	(input)
+	(rect 104 512 272 528)
+	(text "INPUT" (rect 125 0 166 11)(font "Arial" (font_size 6)))
+	(text "E" (rect 5 0 14 14)(font "Arial" ))
+	(pt 168 8)
+	(drawing
+		(line (pt 84 12)(pt 109 12))
+		(line (pt 84 4)(pt 109 4))
+		(line (pt 113 8)(pt 168 8))
+		(line (pt 84 12)(pt 84 4))
+		(line (pt 109 4)(pt 113 8))
+		(line (pt 109 12)(pt 113 8))
+	)
+	(text "GND" (rect 128 7 152 18)(font "Arial" (font_size 6)))
 )
 (pin
 	(output)
