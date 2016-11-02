@@ -9371,60 +9371,40 @@ agreement for further details.
 	(pt 1696 2608)
 )
 (connector
-	(pt 712 1376)
+	(pt 544 1456)
+	(pt 712 1456)
+)
+(connector
+	(pt 712 1456)
 	(pt 712 1512)
 )
 (connector
-	(pt 704 1368)
+	(pt 528 1448)
+	(pt 704 1448)
+)
+(connector
+	(pt 704 1448)
 	(pt 704 1520)
 )
 (connector
-	(pt 216 1400)
-	(pt 656 1400)
+	(pt 512 1440)
+	(pt 696 1440)
 )
 (connector
-	(pt 656 1320)
-	(pt 656 1400)
+	(pt 696 1440)
+	(pt 696 1528)
 )
 (connector
-	(pt 656 1400)
-	(pt 656 1648)
+	(pt 696 1360)
+	(pt 696 1440)
 )
 (connector
-	(pt 232 1408)
-	(pt 664 1408)
+	(pt 704 1368)
+	(pt 704 1448)
 )
 (connector
-	(pt 664 1328)
-	(pt 664 1408)
-)
-(connector
-	(pt 664 1408)
-	(pt 664 1656)
-)
-(connector
-	(pt 248 1416)
-	(pt 672 1416)
-)
-(connector
-	(pt 672 1336)
-	(pt 672 1416)
-)
-(connector
-	(pt 672 1416)
-	(pt 672 1664)
-)
-(connector
-	(pt 264 1424)
-	(pt 680 1424)
-)
-(connector
-	(pt 680 1344)
-	(pt 680 1424)
-)
-(connector
-	(pt 680 1424)
-	(pt 680 1672)
+	(pt 712 1376)
+	(pt 712 1456)
 )
 (connector
 	(pt 496 1432)
@@ -9439,16 +9419,52 @@ agreement for further details.
 	(pt 688 1536)
 )
 (connector
-	(pt 512 1440)
-	(pt 696 1440)
+	(pt 264 1424)
+	(pt 680 1424)
 )
 (connector
-	(pt 696 1360)
-	(pt 696 1440)
+	(pt 680 1344)
+	(pt 680 1424)
 )
 (connector
-	(pt 696 1440)
-	(pt 696 1528)
+	(pt 680 1424)
+	(pt 680 1672)
+)
+(connector
+	(pt 248 1416)
+	(pt 672 1416)
+)
+(connector
+	(pt 672 1336)
+	(pt 672 1416)
+)
+(connector
+	(pt 672 1416)
+	(pt 672 1664)
+)
+(connector
+	(pt 232 1408)
+	(pt 664 1408)
+)
+(connector
+	(pt 664 1328)
+	(pt 664 1408)
+)
+(connector
+	(pt 664 1408)
+	(pt 664 1656)
+)
+(connector
+	(pt 216 1400)
+	(pt 656 1400)
+)
+(connector
+	(pt 656 1320)
+	(pt 656 1400)
+)
+(connector
+	(pt 656 1400)
+	(pt 656 1648)
 )
 (junction (pt 712 288))
 (junction (pt 704 296))
@@ -9678,9 +9694,11 @@ agreement for further details.
 (junction (pt 1560 2592))
 (junction (pt 1608 2600))
 (junction (pt 1656 2608))
-(junction (pt 656 1400))
-(junction (pt 664 1408))
-(junction (pt 672 1416))
-(junction (pt 680 1424))
-(junction (pt 688 1432))
+(junction (pt 712 1456))
+(junction (pt 704 1448))
 (junction (pt 696 1440))
+(junction (pt 688 1432))
+(junction (pt 680 1424))
+(junction (pt 672 1416))
+(junction (pt 664 1408))
+(junction (pt 656 1400))
