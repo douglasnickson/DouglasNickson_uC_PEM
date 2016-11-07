@@ -68,3 +68,4 @@ set_global_assignment -name QIP_FILE RAM.qip
 set_global_assignment -name VECTOR_WAVEFORM_FILE tb_SAP1.vwf
 set_global_assignment -name BDF_FILE Componentes/74LS83.bdf
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name BDF_FILE "../SAP-1/Controlador/Controlador.bdf"
